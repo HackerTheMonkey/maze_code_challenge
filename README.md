@@ -44,7 +44,7 @@ Acceptance Criteria
   Example Maze:
 
   
-
+```
   XXXXXXXXXXXXXXX
   X             X
   X XXXXXXXXXXX X
@@ -60,3 +60,4 @@ Acceptance Criteria
   X X         X X
   X XXXXXXXXX   X
   XFXXXXXXXXXXXXX
+```
