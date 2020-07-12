@@ -1,4 +1,4 @@
-# maze_code_challenge
+# Maze Code Challenge
 
 ### Programming Assignment
 
